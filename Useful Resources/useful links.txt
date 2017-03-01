@@ -1,0 +1,48 @@
+206CDE Real World Project 
+
+
+Games comparison website :
+
+Must do:
+Website that compares prices for games online (G2A or AMAzon)
+Profile system that would store preferences and machine learning that would generate recommendations
+The profile system would also store search history so the person can go back to the games they've previously browsed.
+Price alerts 	
+
+Nice to have:
+Include the api for the websites so that we do one click buy
+Include Youtube API so that we see trailers of the games
+Include the Game website API for the reviews as well
+Twitter for hashtags including the game title.
+Most popular searches 	
+
+
+Useful resources: 
+
+Storyboards, UML diagrams and prototypes: 
+http://www.lucidchart.com	 (All of you, please create an account with these guys) 
+https://www.lucidchart.com/pages/usecase/education-request (Then request an education license here) (it takes one day to get it, but you can still use the free features of the website which allow you to do storyboards) (This lucidchart is amazing, i am sorry i didn’t show it to you before, a friend of mine explained it to me in more detail today)
+
+2. Material Design: 
+https://material.io/guidelines/#introduction-goals (Used for GUI, patterns and styles, colours and so on) (Sudip + Taffy, look at this please) (Anybody else is welcome as well :D)  (You have all the resources needed on the left side of the screen) 
+
+(First things to be done are above, we need to do these today) 
+
+3. Backend, Parse Server (API that does the backend for us (25% of the project roughly) : 
+https://github.com/ParsePlatform/parse-server  (parse server on github)
+https://www.youtube.com/watch?v=JNKY2nqGWxY (tutorial on how to use parse server with android)
+https://www.youtube.com/watch?v=B_FM9cggf8M (tutorial on login with android and parse, Taffy, please :D) 
+
+4. Android’s way of “Putting it all together”... (Diagrams and how to match the backend with the frontend) https://developer.android.com/training/design-navigation/wireframing.html  (LucidChart can be used to do all these diagrams that are shown in here, we just need the license) 
+
+
+
+
+
+
+Main page features : 
+
+Most popular searched items 
+butons : profile (if logged in)  / login if not  => profile takes you to your profile so you could see your search history
+Search bar 
+
