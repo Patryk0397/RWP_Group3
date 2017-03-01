@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Gompare</string>
+    <string name="content_description">Logo</string>
+    <string name="login_activity_password_hint">Password</string>
+    <string name="login_activity_login_text">Login</string>
+    <string name="login_activity_username_hint">Username</string>
+    <string name="login_activity_browse_as_guest">Browse as guest</string>
+    <string name="login_activity_title_gompare">GOMPARE</string>
+    <string name="login_activity_create_account">Create an account</string>
+
 </resources>
