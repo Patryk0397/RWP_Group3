@@ -1,6 +1,6 @@
 <?php
     
-	$con = mysqli_connect("gompare.000webhostapp.com", "id985205_gompare", "gompare101", "id985205_users");
+	$con = mysqli_connect("localhost", "root", "", "gompare");
     
  
     $username = $_POST["username"];
