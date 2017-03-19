@@ -67,7 +67,8 @@
         android:layout_alignStart="@+id/loginPassword"
         android:layout_marginTop="48dp"
         android:id="@+id/LoginButton"
-        android:layout_alignEnd="@+id/loginPassword" />
+        android:layout_alignEnd="@+id/loginPassword"
+        android:onClick="userLogin"/>
 
     <Button
         android:text="@string/browse_as_guest"
