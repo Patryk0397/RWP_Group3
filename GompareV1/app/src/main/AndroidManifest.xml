@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.gompare.gomparev1">
-
     // Adding the internet premission to the app because we are going to be accessing the internet
-    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -19,9 +18,11 @@
             </intent-filter>
         </activity>
         <activity android:name=".LoginPage" />
-        <activity android:name=".SignUp"
-            android:parentActivityName=".LoginPage"/>
-        <activity android:name=".MainPage"></activity>
+        <activity
+            android:name=".SignUp"
+            android:parentActivityName=".LoginPage" />
+        <activity android:name=".MainPage" />
+        <activity android:name=".ProfilePage"></activity>
     </application>
 
 </manifest>
